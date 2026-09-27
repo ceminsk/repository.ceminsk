@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="skin.confluence.minsk" version="2025.12.0.0" name="Confluence-明斯克" provider-name="Minsk, CE使用交流群">
+	<requires>
+		<import addon="xbmc.gui" version="5.17.0"/>
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="false" effectslowdown="1.0">
+		<res width="1920" height="1080" aspect="16:9" default="true" folder="1080p" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<license>GNU General Public License version 2</license>
+		<forum>https://forum.kodi.tv/forumdisplay.php?fid=125</forum>
+		<source>https://github.com/xbmc/skin.confluence</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshot-03.jpg</screenshot>
+			<screenshot>resources/screenshot-04.jpg</screenshot>
+			<screenshot>resources/screenshot-05.jpg</screenshot>
+		</assets>
+		<news>Omega update.</news>
+		<summary lang="zh_CN">明斯克改进的 Confluence 皮肤。</summary>
+		<summary lang="zh_TW">明斯克改进的面板 (Kodi 的預設面板)。</summary>
+		<description lang="zh_CN">本皮肤由CE交流群-明斯克基于Confluence皮肤深度优化打造，在保持流畅运行的前提下融合了多款流行皮肤的精华功能，并加入多项创新设计，致力于为CE爱好者提供极致的视觉体验与操作便利。
+主要功能集成了地平线风格海报墙，三行八列海报展示，光盘入盒滚动动画(可设置关闭)，剧集列表，播放页面可选剧集(书签)，播放页面加载剧情详情页和演员列表详情页，快捷选择字幕和音轨以及各种美化，更多细节欢迎各位喜爱KODI和CE的朋友深入体验。</description>
+		<description lang="zh_TW">本皮肤由CE交流群-明斯克基于Confluence皮肤深度优化打造，在保持流畅运行的前提下融合了多款流行皮肤的精华功能，并加入多项创新设计，致力于为CE爱好者提供极致的视觉体验与操作便利。
+主要功能集成了地平线风格海报墙，三行八列海报展示，光盘入盒滚动动画(可设置关闭)，剧集列表，播放页面可选剧集(书签)，播放页面加载剧情详情页和演员列表详情页，快捷选择字幕和音轨以及各种美化，更多细节欢迎各位喜爱KODI和CE的朋友深入体验。</description>
+	</extension>
+</addon>
+<addon id="repository.minsk-addons-repo"
+        name="明斯克的插件仓库"
+         version="1.1.0"
+        provider-name="CE-minsk">
+    <extension point="xbmc.addon.repository"
+            name="minsk-addons-repo">
+          <dir minversion="19.0.0">
+            <info compressed="true">https://gh-proxy.org/https://github.com/minsk6630/repository.minsk-addons/raw/refs/heads/main/addons.xml</info>
+            <checksum>https://gh-proxy.org/https://github.com/minsk6630/repository.minsk-addons/raw/refs/heads/main/addons.xml.md5</checksum>
+            <datadir zip="true">https://gh-proxy.org/https://github.com/minsk6630/repository.minsk-addons/raw/refs/heads/main/repo</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>repository.minsk-addons-repo</summary>
+        <summary lang="zh">明斯克的插件仓库</summary>
+        <description>CE玩家明斯克的插件仓库，包含魔改皮肤及一些依赖插件。</description>
+        <description lang="zh">CE玩家明斯克的插件仓库，包含魔改皮肤及一些依赖插件。</description>
+        <disclaimer>本库中魔改皮肤由明斯克开发，转载请注明出处。</disclaimer>
+        <disclaimer lang="zh">本库中魔改皮肤由明斯克开发，转载请注明出处。</disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon>
+<addon id="skin.confluence.minsk" version="2026.5.16.1" name="Confluence-明斯克" provider-name="Minsk, CE使用交流群">
+	<requires>
+		<import addon="xbmc.gui" version="5.17.0"/>
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="false" effectslowdown="1.0">
+		<res width="1920" height="1080" aspect="16:9" default="true" folder="1080p" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<license>GNU General Public License version 2</license>
+		<forum>https://forum.kodi.tv/forumdisplay.php?fid=125</forum>
+		<source>https://github.com/xbmc/skin.confluence</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshot-03.jpg</screenshot>
+			<screenshot>resources/screenshot-04.jpg</screenshot>
+			<screenshot>resources/screenshot-05.jpg</screenshot>
+		</assets>
+		<news>Omega update.</news>
+		<summary lang="zh_CN">明斯克改进的 Confluence 皮肤。</summary>
+		<summary lang="zh_TW">明斯克改进的面板 (Kodi 的預設面板)。</summary>
+		<description lang="zh_CN">本皮肤由CE交流群-明斯克基于Confluence皮肤深度优化打造，在保持流畅运行的前提下融合了多款流行皮肤的精华功能，并加入多项创新设计，致力于为CE爱好者提供极致的视觉体验与操作便利。
+主要功能集成了地平线风格海报墙，三行八列海报展示，光盘入盒滚动动画(可设置关闭)，剧集列表，播放页面可选剧集(书签)，播放页面加载剧情详情页和演员列表详情页，快捷选择字幕和音轨以及各种美化，更多细节欢迎各位喜爱KODI和CE的朋友深入体验。</description>
+		<description lang="zh_TW">本皮肤由CE交流群-明斯克基于Confluence皮肤深度优化打造，在保持流畅运行的前提下融合了多款流行皮肤的精华功能，并加入多项创新设计，致力于为CE爱好者提供极致的视觉体验与操作便利。
+主要功能集成了地平线风格海报墙，三行八列海报展示，光盘入盒滚动动画(可设置关闭)，剧集列表，播放页面可选剧集(书签)，播放页面加载剧情详情页和演员列表详情页，快捷选择字幕和音轨以及各种美化，更多细节欢迎各位喜爱KODI和CE的朋友深入体验。</description>
+	</extension>
+</addon>
+
+<addon id="script.skinvariables"
+version="2.1.33"
+name="Skin Variables"
+provider-name="jurialmunkey">
+<requires>
+  <import addon="xbmc.python" version="3.0.0" />
+  <import addon="script.module.jurialmunkey" version="0.2.28" />
+  <import addon="script.module.infotagger" version="0.0.5" />
+</requires>
+<extension point="xbmc.python.script" library="script.py" />
+<extension point="xbmc.python.pluginsource" library="plugin.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en_GB">Skin Variables helps skinners to construct variables and expressions for multiple containers and listitems using a template</summary>
+  <summary lang="fr_FR">Skin Variables aide les skinners à créer des variables et des expressions pour plusieurs conteneurs et listes à l'aide d'un modèle</summary>
+  <description lang="en_GB">Skin Variables helps skinners to construct variables and expressions for multiple containers and listitems using a template</description>
+  <description lang="fr_FR">Skin Variables aide les skinners à créer des variables et des expressions pour plusieurs conteneurs et listes à l'aide d'un modèle</description>
+  <disclaimer lang="en_GB">For skinners</disclaimer>
+  <disclaimer lang="fr_FR">Pour les skinners</disclaimer>
+  <license>GPL-3.0-or-later</license>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+</extension>
+</addon>
+<addon id="script.embuary.info" name="Embuary Info" version="2.0.8" provider-name="sualfred">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+        <import addon="script.module.requests" version="2.9.1"/>
+        <import addon="script.module.arrow" version="0.10.0"/>
+        <import addon="script.module.simplecache" version="2.0.2" />
+        <import addon="script.module.routing" version="0.2.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="plugin.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.python.script" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">Embuary Info Script</summary>
+        <summary lang="de_DE">Embuary Info Script</summary>
+        <description lang="en_GB">Helper script to provide The Movie DB informations for persons, shows and movies. Works best with a skin integration.</description>
+        <description lang="de_DE">Helfer Script das Abfragen von The Movie DB informationen für Personen, Serien und Filme zu ermöglichen. Funktioniert am besten mit einer Skin Integration.</description>
+        <platform>all</platform>
+        <license>Apache-2.0</license>
+        <forum>https://forum.kodi.tv/showthread.php?tid=346034</forum>
+        <source>https://github.com/sualfred/script.embuary.info</source>
+        <assets>
+            <icon>resources/icon.png</icon>
+            <fanart>resources/fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+<addon id="plugin.video.themoviedb.helper"
+version="6.8.2"
+name="TMDb Helper"
+provider-name="jurialmunkey">
+<requires>
+  <import addon="xbmc.python" version="3.0.1"/>
+  <import addon="script.module.requests" version="2.9.1"/>
+  <import addon="script.module.pil" version="1.1.7"/>
+  <import addon="script.module.addon.signals" version="0.0.6" />
+  <import addon="script.module.jurialmunkey" version="0.2.28" />
+  <import addon="script.module.infotagger" version="0.0.5" />
+  <import addon="script.module.beautifulsoup4" version="4.9.3" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="resources/plugin.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.python.script" library="resources/script.py" />
+<extension point="xbmc.service" library="resources/service.py" />
+<extension point="xbmc.python.module" library="resources/modules"/>
+<extension point="xbmc.addon.metadata">
+  <reuselanguageinvoker>false</reuselanguageinvoker>
+  <summary lang="en_GB">TMDb Helper</summary>
+  <description lang="en_GB">TMDb Helper provides details about movies, tvshows and actors from TMDb. Users can access a variety of lists from TMDb TVDb MDbList and Trakt.</description>
+  <disclaimer lang="en_GB">Data provided by TMDb TVDb MDbList OMDb FanartTV and Trakt. Some of the information is provided by TheTVDB.com. Please consider supporting them. https://thetvdb.com/subscribe</disclaimer>
+  <license>GPL-3.0-or-later</license>
+  <website>https://github.com/jurialmunkey/plugin.video.themoviedb.helper</website>
+  <forum>https://forum.kodi.tv/showthread.php?tid=345847</forum>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+    <screenshot>resources/screenshot-01.jpg</screenshot>
+    <screenshot>resources/screenshot-02.jpg</screenshot>
+  </assets>
+</extension>
+</addon>
+<addon id="repository.minsk-addons"
+        name="明斯克的插件仓库"
+         version="1.1.0"
+        provider-name="CE-minsk">
+    <extension point="xbmc.addon.repository"
+            name="minsk-addons-repo">
+          <dir minversion="19.0.0">
+            <info compressed="true">https://gh-proxy.org/https://github.com/minsk6630/repository.minsk-addons/raw/refs/heads/main/addons.xml</info>
+            <checksum>https://gh-proxy.org/https://github.com/minsk6630/repository.minsk-addons/raw/refs/heads/main/addons.xml.md5</checksum>
+            <datadir zip="true">https://gh-proxy.org/https://github.com/minsk6630/repository.minsk-addons/raw/refs/heads/main/repo</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>repository.minsk-addons-repo</summary>
+        <summary lang="zh">明斯克的插件仓库</summary>
+        <description>CE玩家明斯克的插件仓库，包含魔改皮肤及一些依赖插件。</description>
+        <description lang="zh">CE玩家明斯克的插件仓库，包含魔改皮肤及一些依赖插件。</description>
+        <disclaimer>本库中魔改皮肤由明斯克开发，转载请注明出处。</disclaimer>
+        <disclaimer lang="zh">本库中魔改皮肤由明斯克开发，转载请注明出处。</disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon>
+</addons>
